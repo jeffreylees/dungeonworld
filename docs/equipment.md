@@ -419,7 +419,7 @@ James Ninefingers, eccentric genius mage, created these room-sized magical appar
 
 A stealthy suit of armor, it appears as many things to many people and blends in with appropriate apparel. The wearer always seems the height of fashion to any who gaze upon him.
 
-#### Titus’ Truthful Tallow	
+### Titus’ Truthful Tallow	
 
 <span class="Tags">0 weight</span>
 
