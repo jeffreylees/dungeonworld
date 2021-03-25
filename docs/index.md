@@ -4,4 +4,4 @@
 
 The original source files for Dungeon World are on GitHub: [https://github.com/Sagelt/Dungeon-World](https://github.com/Sagelt/Dungeon-World)
 
-This site is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0) and the <strong>Open Gaming License</strong>. Please see the [License page](LICENSE.md) for details.
+This site is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0) and the <strong>Open Gaming License</strong>. Please see the [License page](https://github.com/jeffreylees/dungeonworld/blob/main/LICENSE.md) for details.
